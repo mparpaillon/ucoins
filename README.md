@@ -1,15 +1,15 @@
-# Universal coins (Ucoins) (WIP)
+# Universal coins (Ucoins) (Draft)
 
 An humble attempt at creating a Universal currency where everyone gets the same amount at the same pace.
 
 ## Core concepts
 
-- 1) There is a fixed amount of this currency and it should be, by design, impossible to create more (like Bitcoins?)
-- 2) Being the creator of the currency should not make you richer
-- 3) Since all human lives are worth the same, everybody should get the same amount, the same chances.
-- 4) No third party should manage this currency (no banks or state) (so... blockchain I guess ?)
-- 5) You should be given enough coin everyday to live decently on this planet.
-- WIP
+1. There is a fixed amount of this currency and it should be, by design, impossible to create more (like Bitcoins?)
+2. Being the creator of the currency should not make you richer
+3. Since all human lives are worth the same, everybody should get the same amount, the same chances.
+4. No third party should manage this currency (no banks or state) (so... blockchain I guess ?)
+5. You should be given enough coin everyday to live decently on this planet.
+6. WIP
 
 ## Potential flaws
 
